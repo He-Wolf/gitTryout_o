@@ -6,3 +6,4 @@ second mod on first branch
 
 first mod on second branch
 second mod on second branch
+third mod on second branch
